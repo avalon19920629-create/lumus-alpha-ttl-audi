@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+requests>=2.31
+yfinance>=0.2.54
+lxml>=5.0
+tabulate>=0.9
